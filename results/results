@@ -1,0 +1,366 @@
+#
+# Results on Saturday February 27 2021 19:49:50 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Safari/605.1.15
+# Design number was non-random = 0
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1614455390,458b98ea41807878c14e6638610936ce,DashedSentence,2,0,practice,NULL,1,This,394,False,This is a practice sentence to get you used to reading sentences like this.
+1614455390,458b98ea41807878c14e6638610936ce,DashedSentence,2,0,practice,NULL,2,is,157,False,This is a practice sentence to get you used to reading sentences like this.
+1614455390,458b98ea41807878c14e6638610936ce,DashedSentence,2,0,practice,NULL,3,a,238,False,This is a practice sentence to get you used to reading sentences like this.
+1614455390,458b98ea41807878c14e6638610936ce,DashedSentence,2,0,practice,NULL,4,practice,501,False,This is a practice sentence to get you used to reading sentences like this.
+1614455390,458b98ea41807878c14e6638610936ce,DashedSentence,2,0,practice,NULL,5,sentence,85,False,This is a practice sentence to get you used to reading sentences like this.
+1614455390,458b98ea41807878c14e6638610936ce,DashedSentence,2,0,practice,NULL,6,to,82,False,This is a practice sentence to get you used to reading sentences like this.
+1614455390,458b98ea41807878c14e6638610936ce,DashedSentence,2,0,practice,NULL,7,get,84,False,This is a practice sentence to get you used to reading sentences like this.
+1614455390,458b98ea41807878c14e6638610936ce,DashedSentence,2,0,practice,NULL,8,you,86,False,This is a practice sentence to get you used to reading sentences like this.
+1614455390,458b98ea41807878c14e6638610936ce,DashedSentence,2,0,practice,NULL,9,used,83,False,This is a practice sentence to get you used to reading sentences like this.
+1614455390,458b98ea41807878c14e6638610936ce,DashedSentence,2,0,practice,NULL,10,to,85,False,This is a practice sentence to get you used to reading sentences like this.
+1614455390,458b98ea41807878c14e6638610936ce,DashedSentence,2,0,practice,NULL,11,reading,84,False,This is a practice sentence to get you used to reading sentences like this.
+1614455390,458b98ea41807878c14e6638610936ce,DashedSentence,2,0,practice,NULL,12,sentences,83,False,This is a practice sentence to get you used to reading sentences like this.
+1614455390,458b98ea41807878c14e6638610936ce,DashedSentence,2,0,practice,NULL,13,like,84,False,This is a practice sentence to get you used to reading sentences like this.
+1614455390,458b98ea41807878c14e6638610936ce,DashedSentence,2,0,practice,NULL,14,this.,82,False,This is a practice sentence to get you used to reading sentences like this.
+1614455390,458b98ea41807878c14e6638610936ce,DashedSentence,3,0,practice,NULL,1,This,501,False,This is another practice sentence with a practice question following it.
+1614455390,458b98ea41807878c14e6638610936ce,DashedSentence,3,0,practice,NULL,2,is,86,False,This is another practice sentence with a practice question following it.
+1614455390,458b98ea41807878c14e6638610936ce,DashedSentence,3,0,practice,NULL,3,another,84,False,This is another practice sentence with a practice question following it.
+1614455390,458b98ea41807878c14e6638610936ce,DashedSentence,3,0,practice,NULL,4,practice,82,False,This is another practice sentence with a practice question following it.
+1614455390,458b98ea41807878c14e6638610936ce,DashedSentence,3,0,practice,NULL,5,sentence,85,False,This is another practice sentence with a practice question following it.
+1614455390,458b98ea41807878c14e6638610936ce,DashedSentence,3,0,practice,NULL,6,with,83,False,This is another practice sentence with a practice question following it.
+1614455390,458b98ea41807878c14e6638610936ce,DashedSentence,3,0,practice,NULL,7,a,85,False,This is another practice sentence with a practice question following it.
+1614455390,458b98ea41807878c14e6638610936ce,DashedSentence,3,0,practice,NULL,8,practice,83,False,This is another practice sentence with a practice question following it.
+1614455390,458b98ea41807878c14e6638610936ce,DashedSentence,3,0,practice,NULL,9,question,217,False,This is another practice sentence with a practice question following it.
+1614455390,458b98ea41807878c14e6638610936ce,DashedSentence,3,0,practice,NULL,10,following,192,False,This is another practice sentence with a practice question following it.
+1614455390,458b98ea41807878c14e6638610936ce,DashedSentence,3,0,practice,NULL,11,it.,270,False,This is another practice sentence with a practice question following it.
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+1614455390,458b98ea41807878c14e6638610936ce,Question,3,1,practice,NULL,How would you like to answer this question?,Press 1 or click here for this answer.,NULL,1482
+1614455390,458b98ea41807878c14e6638610936ce,DashedSentence,4,0,practice,NULL,1,This,248,False,This is the last practice sentence before the experiment begins.
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1614455390,458b98ea41807878c14e6638610936ce,DashedSentence,4,0,practice,NULL,2,is,146,False,This is the last practice sentence before the experiment begins.
+1614455390,458b98ea41807878c14e6638610936ce,DashedSentence,4,0,practice,NULL,3,the,156,False,This is the last practice sentence before the experiment begins.
+1614455390,458b98ea41807878c14e6638610936ce,DashedSentence,4,0,practice,NULL,4,last,113,False,This is the last practice sentence before the experiment begins.
+1614455390,458b98ea41807878c14e6638610936ce,DashedSentence,4,0,practice,NULL,5,practice,501,False,This is the last practice sentence before the experiment begins.
+1614455390,458b98ea41807878c14e6638610936ce,DashedSentence,4,0,practice,NULL,6,sentence,84,False,This is the last practice sentence before the experiment begins.
+1614455390,458b98ea41807878c14e6638610936ce,DashedSentence,4,0,practice,NULL,7,before,156,False,This is the last practice sentence before the experiment begins.
+1614455390,458b98ea41807878c14e6638610936ce,DashedSentence,4,0,practice,NULL,8,the,194,False,This is the last practice sentence before the experiment begins.
+1614455390,458b98ea41807878c14e6638610936ce,DashedSentence,4,0,practice,NULL,9,experiment,178,False,This is the last practice sentence before the experiment begins.
+1614455390,458b98ea41807878c14e6638610936ce,DashedSentence,4,0,practice,NULL,10,begins.,293,False,This is the last practice sentence before the experiment begins.
+1614455390,458b98ea41807878c14e6638610936ce,DashedSentence,5,0,s1,1,1,The,203,False,The journalist interviewed an actress who he knew to be shy of publicity after meeting on a previous occasion.
+1614455390,458b98ea41807878c14e6638610936ce,DashedSentence,5,0,s1,1,2,journalist,502,False,The journalist interviewed an actress who he knew to be shy of publicity after meeting on a previous occasion.
+1614455390,458b98ea41807878c14e6638610936ce,DashedSentence,5,0,s1,1,3,interviewed,84,False,The journalist interviewed an actress who he knew to be shy of publicity after meeting on a previous occasion.
+1614455390,458b98ea41807878c14e6638610936ce,DashedSentence,5,0,s1,1,4,an,82,False,The journalist interviewed an actress who he knew to be shy of publicity after meeting on a previous occasion.
+1614455390,458b98ea41807878c14e6638610936ce,DashedSentence,5,0,s1,1,5,actress,86,False,The journalist interviewed an actress who he knew to be shy of publicity after meeting on a previous occasion.
+1614455390,458b98ea41807878c14e6638610936ce,DashedSentence,5,0,s1,1,6,who,83,False,The journalist interviewed an actress who he knew to be shy of publicity after meeting on a previous occasion.
+1614455390,458b98ea41807878c14e6638610936ce,DashedSentence,5,0,s1,1,7,he,85,False,The journalist interviewed an actress who he knew to be shy of publicity after meeting on a previous occasion.
+1614455390,458b98ea41807878c14e6638610936ce,DashedSentence,5,0,s1,1,8,knew,84,False,The journalist interviewed an actress who he knew to be shy of publicity after meeting on a previous occasion.
+1614455390,458b98ea41807878c14e6638610936ce,DashedSentence,5,0,s1,1,9,to,83,False,The journalist interviewed an actress who he knew to be shy of publicity after meeting on a previous occasion.
+1614455390,458b98ea41807878c14e6638610936ce,DashedSentence,5,0,s1,1,10,be,85,False,The journalist interviewed an actress who he knew to be shy of publicity after meeting on a previous occasion.
+1614455390,458b98ea41807878c14e6638610936ce,DashedSentence,5,0,s1,1,11,shy,84,False,The journalist interviewed an actress who he knew to be shy of publicity after meeting on a previous occasion.
+1614455390,458b98ea41807878c14e6638610936ce,DashedSentence,5,0,s1,1,12,of,82,False,The journalist interviewed an actress who he knew to be shy of publicity after meeting on a previous occasion.
+1614455390,458b98ea41807878c14e6638610936ce,DashedSentence,5,0,s1,1,13,publicity,86,False,The journalist interviewed an actress who he knew to be shy of publicity after meeting on a previous occasion.
+1614455390,458b98ea41807878c14e6638610936ce,DashedSentence,5,0,s1,1,14,after,83,False,The journalist interviewed an actress who he knew to be shy of publicity after meeting on a previous occasion.
+1614455390,458b98ea41807878c14e6638610936ce,DashedSentence,5,0,s1,1,15,meeting,85,False,The journalist interviewed an actress who he knew to be shy of publicity after meeting on a previous occasion.
+1614455390,458b98ea41807878c14e6638610936ce,DashedSentence,5,0,s1,1,16,on,82,False,The journalist interviewed an actress who he knew to be shy of publicity after meeting on a previous occasion.
+1614455390,458b98ea41807878c14e6638610936ce,DashedSentence,5,0,s1,1,17,a,215,False,The journalist interviewed an actress who he knew to be shy of publicity after meeting on a previous occasion.
+1614455390,458b98ea41807878c14e6638610936ce,DashedSentence,5,0,s1,1,18,previous,190,False,The journalist interviewed an actress who he knew to be shy of publicity after meeting on a previous occasion.
+1614455390,458b98ea41807878c14e6638610936ce,DashedSentence,5,0,s1,1,19,occasion.,180,False,The journalist interviewed an actress who he knew to be shy of publicity after meeting on a previous occasion.
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+1614455390,458b98ea41807878c14e6638610936ce,Question,5,1,s1,1,The actress was:,shy,1,1168
+1614455390,458b98ea41807878c14e6638610936ce,DashedSentence,10,0,s2,2,1,The,498,False,The teacher helped struggling students who without treating like idiots he encouraged to succeed.
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1614455390,458b98ea41807878c14e6638610936ce,DashedSentence,10,0,s2,2,2,teacher,86,False,The teacher helped struggling students who without treating like idiots he encouraged to succeed.
+1614455390,458b98ea41807878c14e6638610936ce,DashedSentence,10,0,s2,2,3,helped,84,False,The teacher helped struggling students who without treating like idiots he encouraged to succeed.
+1614455390,458b98ea41807878c14e6638610936ce,DashedSentence,10,0,s2,2,4,struggling,84,False,The teacher helped struggling students who without treating like idiots he encouraged to succeed.
+1614455390,458b98ea41807878c14e6638610936ce,DashedSentence,10,0,s2,2,5,students,84,False,The teacher helped struggling students who without treating like idiots he encouraged to succeed.
+1614455390,458b98ea41807878c14e6638610936ce,DashedSentence,10,0,s2,2,6,who,84,False,The teacher helped struggling students who without treating like idiots he encouraged to succeed.
+1614455390,458b98ea41807878c14e6638610936ce,DashedSentence,10,0,s2,2,7,without,407,False,The teacher helped struggling students who without treating like idiots he encouraged to succeed.
+1614455390,458b98ea41807878c14e6638610936ce,DashedSentence,10,0,s2,2,8,treating,501,False,The teacher helped struggling students who without treating like idiots he encouraged to succeed.
+1614455390,458b98ea41807878c14e6638610936ce,DashedSentence,10,0,s2,2,9,like,83,False,The teacher helped struggling students who without treating like idiots he encouraged to succeed.
+1614455390,458b98ea41807878c14e6638610936ce,DashedSentence,10,0,s2,2,10,idiots,85,False,The teacher helped struggling students who without treating like idiots he encouraged to succeed.
+1614455390,458b98ea41807878c14e6638610936ce,DashedSentence,10,0,s2,2,11,he,208,False,The teacher helped struggling students who without treating like idiots he encouraged to succeed.
+1614455390,458b98ea41807878c14e6638610936ce,DashedSentence,10,0,s2,2,12,encouraged,203,False,The teacher helped struggling students who without treating like idiots he encouraged to succeed.
+1614455390,458b98ea41807878c14e6638610936ce,DashedSentence,10,0,s2,2,13,to,314,False,The teacher helped struggling students who without treating like idiots he encouraged to succeed.
+1614455390,458b98ea41807878c14e6638610936ce,DashedSentence,10,0,s2,2,14,succeed.,472,False,The teacher helped struggling students who without treating like idiots he encouraged to succeed.
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1614455390,458b98ea41807878c14e6638610936ce,Question,10,1,s2,2,What did the teacher do?,Encourage his best students to succeed,0,988
+#
+# Results on Sunday March 14 2021 18:01:22 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15
+# Design number was non-random = 1
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1615744883,350f138f02c2b138a8a8b17888bbc652,DashedSentence,2,0,practice,NULL,1,This,382,False,This is a practice sentence to get you used to reading sentences like this.
+1615744883,350f138f02c2b138a8a8b17888bbc652,DashedSentence,2,0,practice,NULL,2,is,502,False,This is a practice sentence to get you used to reading sentences like this.
+1615744883,350f138f02c2b138a8a8b17888bbc652,DashedSentence,2,0,practice,NULL,3,a,83,False,This is a practice sentence to get you used to reading sentences like this.
+1615744883,350f138f02c2b138a8a8b17888bbc652,DashedSentence,2,0,practice,NULL,4,practice,84,False,This is a practice sentence to get you used to reading sentences like this.
+1615744883,350f138f02c2b138a8a8b17888bbc652,DashedSentence,2,0,practice,NULL,5,sentence,85,False,This is a practice sentence to get you used to reading sentences like this.
+1615744883,350f138f02c2b138a8a8b17888bbc652,DashedSentence,2,0,practice,NULL,6,to,281,False,This is a practice sentence to get you used to reading sentences like this.
+1615744883,350f138f02c2b138a8a8b17888bbc652,DashedSentence,2,0,practice,NULL,7,get,501,False,This is a practice sentence to get you used to reading sentences like this.
+1615744883,350f138f02c2b138a8a8b17888bbc652,DashedSentence,2,0,practice,NULL,8,you,85,False,This is a practice sentence to get you used to reading sentences like this.
+1615744883,350f138f02c2b138a8a8b17888bbc652,DashedSentence,2,0,practice,NULL,9,used,84,False,This is a practice sentence to get you used to reading sentences like this.
+1615744883,350f138f02c2b138a8a8b17888bbc652,DashedSentence,2,0,practice,NULL,10,to,83,False,This is a practice sentence to get you used to reading sentences like this.
+1615744883,350f138f02c2b138a8a8b17888bbc652,DashedSentence,2,0,practice,NULL,11,reading,85,False,This is a practice sentence to get you used to reading sentences like this.
+1615744883,350f138f02c2b138a8a8b17888bbc652,DashedSentence,2,0,practice,NULL,12,sentences,84,False,This is a practice sentence to get you used to reading sentences like this.
+1615744883,350f138f02c2b138a8a8b17888bbc652,DashedSentence,2,0,practice,NULL,13,like,428,False,This is a practice sentence to get you used to reading sentences like this.
+1615744883,350f138f02c2b138a8a8b17888bbc652,DashedSentence,2,0,practice,NULL,14,this.,338,False,This is a practice sentence to get you used to reading sentences like this.
+1615744883,350f138f02c2b138a8a8b17888bbc652,DashedSentence,3,0,practice,NULL,1,This,180,False,This is another practice sentence with a practice question following it.
+1615744883,350f138f02c2b138a8a8b17888bbc652,DashedSentence,3,0,practice,NULL,2,is,180,False,This is another practice sentence with a practice question following it.
+1615744883,350f138f02c2b138a8a8b17888bbc652,DashedSentence,3,0,practice,NULL,3,another,192,False,This is another practice sentence with a practice question following it.
+1615744883,350f138f02c2b138a8a8b17888bbc652,DashedSentence,3,0,practice,NULL,4,practice,224,False,This is another practice sentence with a practice question following it.
+1615744883,350f138f02c2b138a8a8b17888bbc652,DashedSentence,3,0,practice,NULL,5,sentence,293,False,This is another practice sentence with a practice question following it.
+1615744883,350f138f02c2b138a8a8b17888bbc652,DashedSentence,3,0,practice,NULL,6,with,304,False,This is another practice sentence with a practice question following it.
+1615744883,350f138f02c2b138a8a8b17888bbc652,DashedSentence,3,0,practice,NULL,7,a,326,False,This is another practice sentence with a practice question following it.
+1615744883,350f138f02c2b138a8a8b17888bbc652,DashedSentence,3,0,practice,NULL,8,practice,304,False,This is another practice sentence with a practice question following it.
+1615744883,350f138f02c2b138a8a8b17888bbc652,DashedSentence,3,0,practice,NULL,9,question,315,False,This is another practice sentence with a practice question following it.
+1615744883,350f138f02c2b138a8a8b17888bbc652,DashedSentence,3,0,practice,NULL,10,following,337,False,This is another practice sentence with a practice question following it.
+1615744883,350f138f02c2b138a8a8b17888bbc652,DashedSentence,3,0,practice,NULL,11,it.,360,False,This is another practice sentence with a practice question following it.
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+1615744883,350f138f02c2b138a8a8b17888bbc652,Question,3,1,practice,NULL,How would you like to answer this question?,Press 1 or click here for this answer.,NULL,3857
+1615744883,350f138f02c2b138a8a8b17888bbc652,DashedSentence,4,0,practice,NULL,1,This,180,False,This is the last practice sentence before the experiment begins.
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1615744883,350f138f02c2b138a8a8b17888bbc652,DashedSentence,4,0,practice,NULL,2,is,169,False,This is the last practice sentence before the experiment begins.
+1615744883,350f138f02c2b138a8a8b17888bbc652,DashedSentence,4,0,practice,NULL,3,the,180,False,This is the last practice sentence before the experiment begins.
+1615744883,350f138f02c2b138a8a8b17888bbc652,DashedSentence,4,0,practice,NULL,4,last,169,False,This is the last practice sentence before the experiment begins.
+1615744883,350f138f02c2b138a8a8b17888bbc652,DashedSentence,4,0,practice,NULL,5,practice,501,False,This is the last practice sentence before the experiment begins.
+1615744883,350f138f02c2b138a8a8b17888bbc652,DashedSentence,4,0,practice,NULL,6,sentence,84,False,This is the last practice sentence before the experiment begins.
+1615744883,350f138f02c2b138a8a8b17888bbc652,DashedSentence,4,0,practice,NULL,7,before,225,False,This is the last practice sentence before the experiment begins.
+1615744883,350f138f02c2b138a8a8b17888bbc652,DashedSentence,4,0,practice,NULL,8,the,169,False,This is the last practice sentence before the experiment begins.
+1615744883,350f138f02c2b138a8a8b17888bbc652,DashedSentence,4,0,practice,NULL,9,experiment,169,False,This is the last practice sentence before the experiment begins.
+1615744883,350f138f02c2b138a8a8b17888bbc652,DashedSentence,4,0,practice,NULL,10,begins.,225,False,This is the last practice sentence before the experiment begins.
+1615744883,350f138f02c2b138a8a8b17888bbc652,DashedSentence,6,0,s2,1,1,The,182,False,The journalist interviewed an actress who after meeting on a previous occasion he knew to be shy of publicity.
+1615744883,350f138f02c2b138a8a8b17888bbc652,DashedSentence,6,0,s2,1,2,journalist,134,False,The journalist interviewed an actress who after meeting on a previous occasion he knew to be shy of publicity.
+1615744883,350f138f02c2b138a8a8b17888bbc652,DashedSentence,6,0,s2,1,3,interviewed,501,False,The journalist interviewed an actress who after meeting on a previous occasion he knew to be shy of publicity.
+1615744883,350f138f02c2b138a8a8b17888bbc652,DashedSentence,6,0,s2,1,4,an,83,False,The journalist interviewed an actress who after meeting on a previous occasion he knew to be shy of publicity.
+1615744883,350f138f02c2b138a8a8b17888bbc652,DashedSentence,6,0,s2,1,5,actress,82,False,The journalist interviewed an actress who after meeting on a previous occasion he knew to be shy of publicity.
+1615744883,350f138f02c2b138a8a8b17888bbc652,DashedSentence,6,0,s2,1,6,who,84,False,The journalist interviewed an actress who after meeting on a previous occasion he knew to be shy of publicity.
+1615744883,350f138f02c2b138a8a8b17888bbc652,DashedSentence,6,0,s2,1,7,after,263,False,The journalist interviewed an actress who after meeting on a previous occasion he knew to be shy of publicity.
+1615744883,350f138f02c2b138a8a8b17888bbc652,DashedSentence,6,0,s2,1,8,meeting,501,False,The journalist interviewed an actress who after meeting on a previous occasion he knew to be shy of publicity.
+1615744883,350f138f02c2b138a8a8b17888bbc652,DashedSentence,6,0,s2,1,9,on,84,False,The journalist interviewed an actress who after meeting on a previous occasion he knew to be shy of publicity.
+1615744883,350f138f02c2b138a8a8b17888bbc652,DashedSentence,6,0,s2,1,10,a,85,False,The journalist interviewed an actress who after meeting on a previous occasion he knew to be shy of publicity.
+1615744883,350f138f02c2b138a8a8b17888bbc652,DashedSentence,6,0,s2,1,11,previous,196,False,The journalist interviewed an actress who after meeting on a previous occasion he knew to be shy of publicity.
+1615744883,350f138f02c2b138a8a8b17888bbc652,DashedSentence,6,0,s2,1,12,occasion,191,False,The journalist interviewed an actress who after meeting on a previous occasion he knew to be shy of publicity.
+1615744883,350f138f02c2b138a8a8b17888bbc652,DashedSentence,6,0,s2,1,13,he,214,False,The journalist interviewed an actress who after meeting on a previous occasion he knew to be shy of publicity.
+1615744883,350f138f02c2b138a8a8b17888bbc652,DashedSentence,6,0,s2,1,14,knew,202,False,The journalist interviewed an actress who after meeting on a previous occasion he knew to be shy of publicity.
+1615744883,350f138f02c2b138a8a8b17888bbc652,DashedSentence,6,0,s2,1,15,to,180,False,The journalist interviewed an actress who after meeting on a previous occasion he knew to be shy of publicity.
+1615744883,350f138f02c2b138a8a8b17888bbc652,DashedSentence,6,0,s2,1,16,be,202,False,The journalist interviewed an actress who after meeting on a previous occasion he knew to be shy of publicity.
+1615744883,350f138f02c2b138a8a8b17888bbc652,DashedSentence,6,0,s2,1,17,shy,282,False,The journalist interviewed an actress who after meeting on a previous occasion he knew to be shy of publicity.
+1615744883,350f138f02c2b138a8a8b17888bbc652,DashedSentence,6,0,s2,1,18,of,258,False,The journalist interviewed an actress who after meeting on a previous occasion he knew to be shy of publicity.
+1615744883,350f138f02c2b138a8a8b17888bbc652,DashedSentence,6,0,s2,1,19,publicity.,315,False,The journalist interviewed an actress who after meeting on a previous occasion he knew to be shy of publicity.
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+1615744883,350f138f02c2b138a8a8b17888bbc652,Question,6,1,s2,1,The actress was:,shy,1,1112
+1615744883,350f138f02c2b138a8a8b17888bbc652,DashedSentence,9,0,s1,2,1,The,501,False,The teacher helped struggling students who he encouraged to succeed without treating like idiots.
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1615744883,350f138f02c2b138a8a8b17888bbc652,DashedSentence,9,0,s1,2,2,teacher,84,False,The teacher helped struggling students who he encouraged to succeed without treating like idiots.
+1615744883,350f138f02c2b138a8a8b17888bbc652,DashedSentence,9,0,s1,2,3,helped,84,False,The teacher helped struggling students who he encouraged to succeed without treating like idiots.
+1615744883,350f138f02c2b138a8a8b17888bbc652,DashedSentence,9,0,s1,2,4,struggling,85,False,The teacher helped struggling students who he encouraged to succeed without treating like idiots.
+1615744883,350f138f02c2b138a8a8b17888bbc652,DashedSentence,9,0,s1,2,5,students,84,False,The teacher helped struggling students who he encouraged to succeed without treating like idiots.
+1615744883,350f138f02c2b138a8a8b17888bbc652,DashedSentence,9,0,s1,2,6,who,84,False,The teacher helped struggling students who he encouraged to succeed without treating like idiots.
+1615744883,350f138f02c2b138a8a8b17888bbc652,DashedSentence,9,0,s1,2,7,he,84,False,The teacher helped struggling students who he encouraged to succeed without treating like idiots.
+1615744883,350f138f02c2b138a8a8b17888bbc652,DashedSentence,9,0,s1,2,8,encouraged,84,False,The teacher helped struggling students who he encouraged to succeed without treating like idiots.
+1615744883,350f138f02c2b138a8a8b17888bbc652,DashedSentence,9,0,s1,2,9,to,83,False,The teacher helped struggling students who he encouraged to succeed without treating like idiots.
+1615744883,350f138f02c2b138a8a8b17888bbc652,DashedSentence,9,0,s1,2,10,succeed,83,False,The teacher helped struggling students who he encouraged to succeed without treating like idiots.
+1615744883,350f138f02c2b138a8a8b17888bbc652,DashedSentence,9,0,s1,2,11,without,84,False,The teacher helped struggling students who he encouraged to succeed without treating like idiots.
+1615744883,350f138f02c2b138a8a8b17888bbc652,DashedSentence,9,0,s1,2,12,treating,83,False,The teacher helped struggling students who he encouraged to succeed without treating like idiots.
+1615744883,350f138f02c2b138a8a8b17888bbc652,DashedSentence,9,0,s1,2,13,like,83,False,The teacher helped struggling students who he encouraged to succeed without treating like idiots.
+1615744883,350f138f02c2b138a8a8b17888bbc652,DashedSentence,9,0,s1,2,14,idiots.,84,False,The teacher helped struggling students who he encouraged to succeed without treating like idiots.
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1615744883,350f138f02c2b138a8a8b17888bbc652,Question,9,1,s1,2,What did the teacher do?,Encourage his best students to succeed,0,522
